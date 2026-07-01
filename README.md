@@ -1,0 +1,2 @@
+# astrbot_plugin_remember_you
+适用于astrbot的记忆插件
